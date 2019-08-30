@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+# Theme info
+#theme: jekyll-theme-minimal
+#remote_theme: taylantatli/moon
+remote_theme: mmistakes/minimal-mistakes
+#remote_theme:sharu725/online-cv
